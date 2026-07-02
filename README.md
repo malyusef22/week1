@@ -25,6 +25,7 @@ This project is a Java console application that manages student records. It allo
 1. Open the project in Eclipse.
 2. Run `StudentManagementApp.java`.
 3. Use the menu displayed in the console.
-
+## ScreenShots
+![Main Menu]()
 ## Author
 Maram Saleh Alyusef
