@@ -17,7 +17,7 @@ This project is a Java console application that manages student records. It allo
 - Git
 - GitHub
 
-## Project Structure
+## Project Classes
 - Student.java
 - StudentManagementApp.java
 
