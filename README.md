@@ -29,13 +29,13 @@ This project is a Java console application that manages student records. It allo
    
 ## ScreenShots
 ![Main code:](Screenshot 2026-07-02 021152.png)
-![Main Menu:](Screenshot 2026-07-02 021152.png)
-![Add Student:](Screenshot 2026-07-02 021152.png)
-![ Add Marks:](Screenshot 2026-07-02 021152.png)
-![Display Students:](Screenshot 2026-07-02 021152.png)
-![Search Student:](Screenshot 2026-07-02 021152.png)
-![ Highest Average:](Screenshot 2026-07-02 021152.png)
-![Exit...](Screenshot 2026-07-02 021152.png)
+![Main Menu:](main menu.png)
+![Add Student:](add student.png)
+![ Add Marks:](addmaks.png)
+![Display Students:](display.png)
+![Search Student:](search.png)
+![ Highest Average:](top.png)
+![Exit...](exit.png)
 
 
 
