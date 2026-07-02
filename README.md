@@ -31,7 +31,7 @@ This project is a Java console application that manages student records. It allo
 
 
 ![Main code:](https://github.com/malyusef22/week1/blob/main/Screenshot%202026-07-02%20021119.png)
-
+Main menu:
 ![Main Menu:](https://github.com/malyusef22/week1/blob/main/main%20menu.png)
 
 ![Add Student:](https://github.com/malyusef22/week1/blob/main/add%20student.png)
