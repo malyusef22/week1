@@ -31,7 +31,7 @@ This project is a Java console application that manages student records. It allo
 ![Main code:](Screenshot 2026-07-02 021152.png)
 ![Main Menu:](main menu.png)
 ![Add Student:](add student.png)
-![ Add Marks:](addmaks.png)
+![ Add Marks:](https://github.com/malyusef22/week1/blob/main/add%20marks.png)
 ![Display Students:](display.png)
 ![Search Student:](search.png)
 ![ Highest Average:](top.png)
